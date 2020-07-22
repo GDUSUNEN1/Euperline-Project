@@ -9,7 +9,7 @@
 
 # ➤ Installation
   sudo apt install git </br>
-  git clone https://github.com/X3RESS/Euperline-Project.git
+  git clone https://github.com/GDUSUNEN1/Euperline-Project.git
   
 # ➤ Links
   *Web Sitesi : *[euperline.com](euperline.com)
